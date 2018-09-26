@@ -1,2 +1,2 @@
 # WWW-Authoring
-Activities from the AC11002 WWW Authoring course
+All the activities from the AC11002 WWW Authoring course
